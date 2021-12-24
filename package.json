@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/charlesarchibong/inbox_contract/issues"
   },
-  "homepage": "https://github.com/charlesarchibong/inbox_contract#readme"
+  "homepage": "https://github.com/charlesarchibong/inbox_contract#readme",
+  "dependencies": {
+    "solc": "^0.4.17"
+  }
 }
