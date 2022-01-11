@@ -22,4 +22,9 @@ describe('Car', () => {
         const car = new Car();
         assert.equal(car.park(), 'parked');
     })
+
+    it('can drive', () => {
+        const car = new Car();
+        assert.equal(car.drive(), 'driving');
+    })
 })
